@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
-import userReducer from '../../udemy-project-codes/fast-react-pizza/src/features/user/userSlice.js';
-import cartReducer from '../../udemy-project-codes/fast-react-pizza/src/features/cart/cartSlice.js';
+import userReducer from './src/features/user/userSlice';
+import cartReducer from './src/features/cart/cartSlice';
 
 const store = configureStore({
   reducer: {
