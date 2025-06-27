@@ -40,7 +40,7 @@ Fast React Pizza is a modern pizza ordering web application built using **React*
 - Data Flow Diagram (DFD)
 - User Flow Diagram
 
-> All diagrams and documentation are included in the [📄 Capstone Report](x[FastReactPizza_ProjectReport.pdf](https://github.com/user-attachments/files/20941895/FastReactPizza_ProjectReport.pdf)
+> All diagrams and documentation are included in the 
 [Fast_React_Pizza_Capstone_Report.pdf](https://github.com/user-attachments/files/20941894/Fast_React_Pizza_Capstone_Report.pdf)
 ).
 
